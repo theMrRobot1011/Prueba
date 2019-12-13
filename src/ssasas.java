@@ -21,4 +21,9 @@ public class ssasas {
 			total = operando1 / operando2;
 			return total;
 	}
+		public static int MULTI(int operando1,int operando2) {
+			int total = 0;
+			total = operando1 * operando2;
+			return total;
+}
 }
